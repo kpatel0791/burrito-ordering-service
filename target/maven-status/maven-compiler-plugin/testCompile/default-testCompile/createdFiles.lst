@@ -1,0 +1,3 @@
+com\generali\burritoorderingservice\BurritoOrderingServiceApplicationTests.class
+com\generali\burritoorderingservice\controller\OrderControllerTest.class
+com\generali\burritoorderingservice\service\OrderServiceTest.class

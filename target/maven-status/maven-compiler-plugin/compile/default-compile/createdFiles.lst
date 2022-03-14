@@ -1,0 +1,8 @@
+com\generali\burritoorderingservice\model\OrderType.class
+com\generali\burritoorderingservice\repository\CustomOrderRepository.class
+com\generali\burritoorderingservice\controller\OrderController.class
+com\generali\burritoorderingservice\model\OrderItems.class
+com\generali\burritoorderingservice\service\OrderService.class
+com\generali\burritoorderingservice\model\Order.class
+com\generali\burritoorderingservice\BurritoOrderingServiceApplication.class
+com\generali\burritoorderingservice\repository\InOrderRepository.class
